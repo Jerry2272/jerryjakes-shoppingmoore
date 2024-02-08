@@ -13,7 +13,7 @@ export const Footer = () => {
           <FaLinkedin />
           <FaInstagram />
         </div>
-        <ul style={{display: "flex", gap: '30px', justifyContent: 'center', margin: 'auto', padding: '20px 0'}}>
+        <ul>
           <NavLink>
               Home
           </NavLink>
