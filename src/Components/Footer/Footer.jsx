@@ -31,7 +31,7 @@ export const Footer = () => {
           </NavLink>
         </ul>
         <hr />
-          <p style={{marginTop: 'auto'}}>copyright &copy; 2024| <a href="/">The JerryJakes Shopping Moore</a>. All right reserved.</p>
+          <p style={{marginTop: '50px'}}>copyright &copy; 2024| <a href="/">The JerryJakes Shopping Moore</a>. All right reserved.</p>
         </div>
     </div>
   )
