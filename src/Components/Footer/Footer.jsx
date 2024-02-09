@@ -14,19 +14,19 @@ export const Footer = () => {
           <FaInstagram />
         </div>
         <ul>
-          <NavLink>
+          <NavLink className="Footer-navLink">
               Home
           </NavLink>
-          <NavLink>
+          <NavLink className="Footer-navLink">
            Help/FAQ
           </NavLink>
-          <NavLink>
+          <NavLink className="Footer-navLink">
             Services
           </NavLink>
-          <NavLink>
+          <NavLink className="Footer-navLink">
            privacy
           </NavLink>
-          <NavLink>
+          <NavLink className="Footer-navLink">
            Contact
           </NavLink>
         </ul>
