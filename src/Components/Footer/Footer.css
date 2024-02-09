@@ -26,6 +26,13 @@ align-items: center;
     color: blue;
 }
 
+.footer ul {
+    margin-top: 30px;
+}
+.footer ul .Footer-navLink{
+    margin-left: 8px ;
+}
+
 @media (min-width: 992px) {
    .footer ul {
        display: flex; 
